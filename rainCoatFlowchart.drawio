@@ -56,13 +56,13 @@
         <mxCell id="Nthu_IO8zFLuggpTaXN6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nthu_IO8zFLuggpTaXN6-5" target="Nthu_IO8zFLuggpTaXN6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nthu_IO8zFLuggpTaXN6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Nthu_IO8zFLuggpTaXN6-5" value="set STATEMENT = STATEMENT + putOnRainCoat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-5" y="910" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nthu_IO8zFLuggpTaXN6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nthu_IO8zFLuggpTaXN6-6" target="Nthu_IO8zFLuggpTaXN6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nthu_IO8zFLuggpTaXN6-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Nthu_IO8zFLuggpTaXN6-6" value="output STATEMENT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="97.5" y="1000" width="295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nthu_IO8zFLuggpTaXN6-7" value="stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
