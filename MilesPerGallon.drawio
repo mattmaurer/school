@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.10">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1084" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-2" target="Ivmcomrwjq2qiD8BK0Qh-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-2" value="start" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-3" target="Ivmcomrwjq2qiD8BK0Qh-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-3" value="output&amp;nbsp;&amp;nbsp;&quot;How many miles did you drive today?&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="410" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-4" target="Ivmcomrwjq2qiD8BK0Qh-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-4" value="float milesDriven = 0.0" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="130" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-5" target="Ivmcomrwjq2qiD8BK0Qh-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-5" value="float gallonsOfGasUsed = 0.0" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="220" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-6" target="Ivmcomrwjq2qiD8BK0Qh-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-6" value="float milesPerGallon = 0.0" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="310" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-10" target="Ivmcomrwjq2qiD8BK0Qh-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-10" value="input milesDriven" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="500" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-12" target="Ivmcomrwjq2qiD8BK0Qh-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-12" value="output &quot;How many gallons of gas did you use today?" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="585" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-13" target="Ivmcomrwjq2qiD8BK0Qh-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-13" value="input gallonsOfGasUsed" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="680" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-16" target="Ivmcomrwjq2qiD8BK0Qh-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-16" value="milesPerGallon = milesDriven / gallonsOfGasUsed" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="70" y="780" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ivmcomrwjq2qiD8BK0Qh-17" target="Ivmcomrwjq2qiD8BK0Qh-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-17" value="output &quot;Your vehicle is getting &quot; + milesPerGallon + &quot; miles per gallon of gasoline.&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="870" width="720" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ivmcomrwjq2qiD8BK0Qh-20" value="stop" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="260" y="970" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
